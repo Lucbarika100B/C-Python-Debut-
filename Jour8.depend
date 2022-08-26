@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1661374834 source:u:\ift199_perso\labs\jour8\lab8.cpp
+	<iostream>
+	<string>
+	<cmath>
+
